@@ -85,7 +85,7 @@ const ShopPage = (props) => {
           <div className={styles.loadMoreContainer}>
             <span>6 of 456</span>
             <Button fullWidth level={'secondary'}>
-              LOAD MORE
+              LOAD MORE TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
             </Button>
           </div>
         </Container>

@@ -22,94 +22,104 @@
         ],
         "description": "This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife. Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
     },
-    {
-        "name": "Classic T-Shirt",
-        "price": 75,
-        "alt": "classic t-shirt 1",
-        "image": "/products/shirt1.jpg",
-        "tags": ["shirt", "men"]
-    },
-    {
-        "name": "Classic T-Shirt",
-        "price": 75,
-        "alt": "classic t-shirt 2",
-        "image": "/products/shirt2.jpg",
-        "tags": ["shirt", "men"]
-    },
-    {
-        "name": "Classic T-Shirt",
-        "price": 75,
-        "alt": "classic t-shirt 3",
-        "image": "/products/shirt3.jpg",
-        "tags": ["shirt", "men"]
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
-        "tags": ["woman"],
-        "meta": "+ 2 colors"
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
-        "tags": ["woman"]
-    },    
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
-        "tags": ["woman"],
-        "meta": "+ 2 colors"
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman4.jpeg",
-        "tags": ["woman"]
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman5.jpeg",
-        "tags": ["woman"],
-        "originalPrice": 31.50
 
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 21,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman6.jpeg",
-        "tags": ["woman"]
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
-        "tags": ["woman"]
-    },
-    {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
-        "tags": ["woman"],
-        "originalPrice": 31.50
 
+    {
+        "name": "Đạt Cuba1",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 21,
+        "name": "Đạt Cuba2",
+        "price": "100,000 VNĐ",
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba3",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba4",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba5",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba6",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba7",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba8",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba7",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba7",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba7",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba7",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba7",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
+        "tags": ["woman"]
+    },
+    {
+        "name": "Đạt Cuba999",
+        "price": "100,000 VNĐ",
+        "alt": "relaxed t shirt woman",
+        "image": "https://kenh14cdn.com/203336854389633024/2022/7/4/28905532817022852834645656964732135891392133n-16569205332281530720851.jpg",
         "tags": ["woman"]
     }
-  ]
+]
